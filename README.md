@@ -11,7 +11,7 @@ This programs spell checks the file by checking if each word already exists in t
 
 To run the program:
 	$ make
-	$ make run file='path/to/dictionary.txt'
+	$ make run file='path/to/dictionary.txt'	// you can use included dictionary in assets folder
 
 To run the HashTable tests:
 	$ make
